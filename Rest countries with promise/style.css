@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(233, 230, 227);
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.image{
+    height: 200px;
+    width: 250px;
+}
+.card{
+    border-radius: 5px;
+    background-color: white;
+    width: 250px;
+    margin: 40px;
+
+}
+span{
+    border-radius: 4px;
+    background-color: green;
+    color: white;
+}
+h2{
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h3{
+    padding: 3px 10px;
+}
+.top{
+    padding-top: 15px;
+}
+.bottom{
+    padding-bottom: 20px;
+}
+
+
+
+
+
